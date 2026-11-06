@@ -1,6 +1,6 @@
 # Chelsea FC Tactics Board
 
-Offline multi-screen Chelsea tactics / match-prep board for Christopher Boyd (Chelsea fan since childhood). Stamford Bridge blue chrome, interactive EXAMPLE formations, animated set-piece diagrams, a fictional season desk, and a local fan notepad — all labeled demo data, no invented live stats.
+Offline multi-screen Chelsea tactics / match-prep board for Alex Rivera (Chelsea fan since childhood). Stamford Bridge blue chrome, interactive EXAMPLE formations, animated set-piece diagrams, a fictional season desk, and a local fan notepad — all labeled demo data, no invented live stats.
 
 ## Screens
 1. **Matchday** — hero countdown to a labeled DEMO kickoff, Bridge vibe, prep checklist
@@ -32,6 +32,6 @@ cd /workspace/tokenmax/chelsea-tactics
 
 ---
 ## Repo notes
-- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/chelsea-tactics` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.
